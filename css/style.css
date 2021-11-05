@@ -1,0 +1,45 @@
+
+/* -------- header --------- */
+.pading-dash{
+    border-bottom: 2px dashed;
+    padding: 1rem 5rem;
+}
+.navbar-nav a{
+    margin: 0 1rem;
+    color: white;
+}
+
+.active{
+    background-color: rgb(194, 16, 75);
+    border-radius: 0.4rem;
+}
+.searching{
+    width: 4rem;
+    text-align: center;
+}
+/* --------- card ----------- */
+.colum-3{
+    text-align: center;
+    width: 24%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    background-color: aliceblue;
+}
+.colum-3 h1{
+    color: black;
+}
+.card-icon{
+    font-size: 500%;
+    text-align: center;
+    color: rgb(189, 12, 86);
+}
+strong{
+    line-height: 4rem;
+}
+/* -------- footer -------- */
+.footer{
+    padding: 3rem 0;
+    text-align: center;
+    background-color: aliceblue;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
